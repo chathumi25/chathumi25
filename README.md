@@ -51,6 +51,15 @@
 
 ## 🚀 Featured Projects
 
+### 🏨 Easy Quiz — MERN + MongoDB*
+
+A simple and interactive quiz application built using the MERN stack. It allows users to take quizzes, view scores, manage questions, and provides an admin panel for adding or updating quiz content.
+🔗 GitHub: https://github.com/chathumi25/Easy-Quiz
+
+### 🏨 Expense Tracker -  *MERN + MongoDB* 
+A simple and efficient MERN-based application that allows users to record, categorize, and manage their daily expenses using MongoDB for secure storage.
+🔗 https://github.com
+
 ### 🧩 Internship Management System — *MERN + MySQL*  
 A platform for managing internship data and improving communication between students & faculty.  
 🔗 https://github.com
@@ -59,9 +68,7 @@ A platform for managing internship data and improving communication between stud
 Interactive dashboard for real-time solar power analytics and performance visualization.  
 🔗 https://github.com/
 
-### 🏨 Expense Tracker -  *MERN + MongoDB* 
-A simple and efficient MERN-based application that allows users to record, categorize, and manage their daily expenses using MongoDB for secure storage.
-🔗 https://github.com
+
 
 ---
 
