@@ -58,7 +58,7 @@ A simple and interactive quiz application built using the MERN stack. It allows 
 
 ### 🏨 Expense Tracker -  *MERN + MongoDB* 
 A simple and efficient MERN-based application that allows users to record, categorize, and manage their daily expenses using MongoDB for secure storage.
-🔗 https://github.com
+🔗https://github.com/chathumi25/expense-tracker
 
 ### 🧩 Internship Management System — *MERN + MySQL*  
 A platform for managing internship data and improving communication between students & faculty.  
