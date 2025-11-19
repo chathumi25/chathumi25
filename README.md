@@ -66,14 +66,10 @@ A platform for managing internship data and improving communication between stud
 
 ### ☀ Solar Energy Dashboard — *MERN + MongoDB*  
 Interactive dashboard for real-time solar power analytics and performance visualization.  
-🔗 https://github.com/
+🔗 https://github.com/chathumi25/Solar-Vision
 
 
 
----
-
-
----
 
 ## 🤝 Connect With Me
 
