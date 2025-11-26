@@ -69,13 +69,18 @@ A platform for managing internship data and improving communication between stud
 Interactive dashboard for real-time solar power analytics and performance visualization.  
 🔗 https://github.com/chathumi25/Solar-Vision
 
-📚 Library Management System — PHP + MySQL (Group Project)
+### 📚 Library Management System — PHP + MySQL (Group Project)*
 
 A web-based Library Management System built using PHP and MySQL.
 This application allows librarians and users to manage library operations such as adding books, issuing/returning books, and tracking availability—all through a browser-based interface.
 
-🔗 GitHub: https://github.com/iro2002/Web-project---Library-Management-System
+🔗 GitHub: https://github.com/iro2002/Web-project---Library-Management-System 
 
+### CampusPlus News Android Mobile App*
+
+Developed a fully functional news and announcements mobile application designed for university students under the CampusPlus platform. The app allows users to view real-time news updates, access academic notices, and stay informed about campus activities through a modern and user-friendly interface.
+
+🔗 GitHub:
 
 
 ## 🤝 Connect With Me
